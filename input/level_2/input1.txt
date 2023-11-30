@@ -1,0 +1,22 @@
+2
+14 21 -7
+16 14 -5
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                  x
+x x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x
+x x x                x           x x
+x x xxxxxxxxxxxxxxxx x x xxxxx x x x
+x x xx   x         x   x       x x x
+x x xx x x xxxxxxxxxxxxxxxxxxx x x x
+x x  x x x x        x          x x x
+x xx x x x x          xxx x xxxx x x
+x  x x x x x        x     x      x x
+xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x
+                                 x x
+xxx xxxxxxxxxx xxxxxxxx x xxxxxx x x
+x x          x        x x x      x x
+x xxxxxxxxxx xxxxxxxx+x x x xxxxxx x
+x            x        x x          x
+x xxxxxxxxxxxx+xxxxxxxx xxxxxxxxxx x
+x            x                    Sx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
